@@ -1,0 +1,31 @@
+#ifndef DEFINE
+#define DEFINE
+//一些预设值
+#define SCREENWIDTH 400
+#define SCREENHEIGHT 600
+#define FPS 30.0
+
+enum SceneType{
+	START=0,
+	GAME,
+	END,
+	HIGHSCORE,
+	INSTRUCTIONS,
+	MODESELECT,
+	WIN
+};
+
+#define PLAYERV 300
+#define PLAYERHP 100
+#define PLAYERATTACK 20
+#define PLAYERBULLETFREQ 3
+#define BULLETV 250
+#define NOT_SET_POS -100
+#define ENEMYATTACK 20
+#define ENEMYV 100
+#define ENEMYBULLETFREQ 1
+#define ENEMYMAKEGAP 1
+#define ENEMYHP 80
+ 
+#endif
+

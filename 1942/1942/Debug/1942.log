@@ -1,0 +1,152 @@
+﻿生成启动时间为 2014/7/23 20:36:10。
+     1>项目“G:\VS2012\1942\1942\1942.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\1942.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt EndScene.cpp GameScene.cpp HighScoreScene.cpp InstructionsScene.cpp Item.cpp ModeSelectScene.cpp StartScene.cpp WinScene.cpp boss.cpp bullet.cpp draw.cpp drawer.cpp enemy.cpp logic.cpp player.cpp
+         StartScene.cpp
+         正在生成代码...
+     1>g:\vs2012\1942\1942\startscene.cpp(111): warning C4715: “StartScene::get_change_type”: 不是所有的控件路径都返回值
+     1>g:\vs2012\1942\1942\startscene.cpp(55): warning C4715: “StartScene::initialize”: 不是所有的控件路径都返回值
+         正在编译...
+         player.cpp
+     1>g:\vs2012\1942\1942\player.cpp(29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\player.cpp(30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\player.cpp(41): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\player.cpp(44): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\player.cpp(45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\player.cpp(46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\player.cpp(70): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\player.cpp(71): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\player.cpp(98): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\player.cpp(111): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\player.cpp(142): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+         logic.cpp
+         enemy.cpp
+     1>g:\vs2012\1942\1942\enemy.cpp(21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\enemy.cpp(29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\enemy.cpp(36): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\enemy.cpp(77): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+         drawer.cpp
+     1>g:\vs2012\1942\1942\drawer.cpp(42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+         draw.cpp
+         bullet.cpp
+     1>g:\vs2012\1942\1942\bullet.cpp(29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\bullet.cpp(33): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\bullet.cpp(34): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+         boss.cpp
+     1>g:\vs2012\1942\1942\boss.cpp(30): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(33): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(45): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(60): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(63): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(75): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(76): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(90): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(93): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(111): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(114): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(121): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(122): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\boss.cpp(127): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+         WinScene.cpp
+     1>g:\vs2012\1942\1942\winscene.cpp(18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+         ModeSelectScene.cpp
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(56): warning C4305: “参数”: 从“double”到“float”截断
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(60): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(61): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(62): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(63): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(70): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(71): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(72): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(73): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(75): warning C4305: “=”: 从“double”到“float”截断
+     1>g:\vs2012\1942\1942\modeselectscene.cpp(98): warning C4305: “参数”: 从“double”到“float”截断
+         Item.cpp
+     1>g:\vs2012\1942\1942\item.cpp(17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\item.cpp(23): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\item.cpp(29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\item.cpp(35): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\item.cpp(41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\item.cpp(52): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+         InstructionsScene.cpp
+     1>g:\vs2012\1942\1942\instructionsscene.cpp(15): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+         HighScoreScene.cpp
+         GameScene.cpp
+     1>g:\vs2012\1942\1942\gamescene.cpp(14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(53): warning C4101: “e”: 未引用的局部变量
+     1>g:\vs2012\1942\1942\gamescene.cpp(112): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(116): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(121): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(124): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(128): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(151): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(153): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(159): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(163): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(166): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(172): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(174): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(180): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(182): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(354): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(355): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(359): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(385): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(410): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(423): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(424): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(440): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(457): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(458): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(463): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(477): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(486): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(489): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(492): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(495): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(649): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(650): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(656): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(660): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(661): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(662): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\vs2012\1942\1942\gamescene.cpp(663): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+         EndScene.cpp
+     1>g:\vs2012\1942\1942\endscene.cpp(15): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\endscene.cpp(17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\endscene.cpp(19): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\vs2012\1942\1942\endscene.cpp(21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\VS2012\1942\Debug\1942.exe" /INCREMENTAL /NOLOGO hge.lib hgehelp.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBC.LIB /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\VS2012\1942\Debug\1942.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\VS2012\1942\Debug\1942.lib" /MACHINE:X86 Debug\background.obj
+         Debug\bomb.obj
+         Debug\boss.obj
+         Debug\bullet.obj
+         Debug\drawer.obj
+         Debug\draw.obj
+         Debug\EndScene.obj
+         Debug\enemy.obj
+         Debug\GameScene.obj
+         Debug\HighScoreScene.obj
+         Debug\InstructionsScene.obj
+         Debug\Item.obj
+         Debug\logic.obj
+         Debug\main.obj
+         Debug\menuitem.obj
+         Debug\ModeSelectScene.obj
+         Debug\player.obj
+         Debug\StartScene.obj
+         Debug\WinScene.obj
+         1942.vcxproj -> G:\VS2012\1942\Debug\1942.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\1942.unsuccessfulbuild”。
+         正在对“Debug\1942.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\VS2012\1942\1942\1942.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:26.95
